@@ -1,1 +1,2 @@
-# 101354581_COMP3123_Assignment1
+# COMP3123_Assignment1
+Assignment 1 - Full Stack Dev
